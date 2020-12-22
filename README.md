@@ -1,2 +1,4 @@
 # LanguageProcessing
- Detect Languages (using first and follow sets)
+Language Processing Practice
+
+english_1.txt - http://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable
